@@ -25,10 +25,35 @@ I love working on web technologies and have experience with JavaScript, React, a
 - 📖 I'm always learning new things—currently diving deep into [GraphQL](https://graphql.org/).
 
 ## 🔧 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🖥 Front-End
+- ⚛️ **React**
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- 📦 **Redux**
+- 🚏 **React Router**
+- 💻 **JavaScript (ES6)**
+- 🌐 **Ajax**
+- 💎 **jQuery**
+
+### 💾 Back-End
+- 🌱 **Spring Boot**
+- 🔐 **Spring Security**
+- ⚙️ **JPA**
+- 🛠 **MyBatis**
+- 🌀 **AOP (Aspect-Oriented Programming)**
+
+### 🗄 Database
+- 🐬 **MySQL**
+- 🛢 **SQL**
+- 🖧 **JDBC**
+
+### 🖥 Server
+- ☁️ **AWS**
+- 🟢 **Node.js**
+- ⚡ **Express.js**
+- 🌀 **Git / GitHub**
+
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
