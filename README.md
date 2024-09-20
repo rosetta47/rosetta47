@@ -56,10 +56,10 @@ I love working on web technologies and have experience with JavaScript, React, a
 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosetta47&show_icons=true&theme=radical)
 
 ## 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosetta47&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
 - [Project 1](https://github.com/yourusername/project1): 간단한 설명.
